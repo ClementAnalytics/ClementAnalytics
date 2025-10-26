@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, moi c’est Clément Robert
 
-<!--
-**ClementAnalytics/ClementAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Data Analyst | Business Intelligence | Économie & Data Science**  
+🎓 Double Master : **Business Intelligence** & **Économie**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 À propos
+Je transforme les données en décisions.  
+J’aime comprendre le *pourquoi* derrière les chiffres, construire des modèles simples mais efficaces, et créer des dashboards clairs qui racontent une histoire.
+
+---
+
+### 🧰 Stack technique
+| Domaine | Outils |
+|----------|--------|
+| Programmation | 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| Base de données | 🧮 SQL |
+| DataViz | 📊 Power BI, Tableau |
+| Data Prep & Automation | ⚙️ Alteryx, KNIME |
+
+---
+
+### 📈 Mes intérêts
+- 📊 Data storytelling  
+- 🤖 Machine learning appliqué  
+- 📈 Économie de la donnée  
+- 🌱 Apprentissage continu
+
+---
+
+### 📫 Où me trouver
+Linkedin : https://www.linkedin.com/in/clement-robert-data-analyst/ 
+
