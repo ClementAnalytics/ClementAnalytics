@@ -1,4 +1,4 @@
-# 👋 Hey, moi c’est Clément Robert
+# 👋 Hey, moi c’est Clément
 
 💼 **Data Analyst | Business Intelligence | Économie & Data Science**  
 🎓 Double Master : **Business Intelligence** & **Économie**
